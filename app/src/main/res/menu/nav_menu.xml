@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:title="DashBoard"
+        android:icon="@drawable/ic_baseline_dashboard_24" />
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Homes" />
+    <item
+        android:id="@+id/about"
+        android:title="Events"
+        android:icon="@drawable/ic_baseline_event_24" />
+    <item
+        android:id="@+id/contacts"
+        android:title="Contact"
+        android:icon="@drawable/ic_baseline_phone_24" />
+    <item
+        android:id="@+id/details"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_account_circle_24" />
+</menu>
